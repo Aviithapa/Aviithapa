@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aviithapa
-- 👀 I’m interested in MERN AND ALSO LARAVEL
+- 👀 I’m interested in MERN AND LARAVEL
 - 🌱 I’m currently working as associate software engineer
 - 💞️ I’m looking to collaborate on projects related to javascript
 - 📫 How to reach me contact me on abhishekthapa115@gmail.com
