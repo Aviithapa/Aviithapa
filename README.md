@@ -68,13 +68,6 @@ Even after building multiple large systems, I keep learning every day — becaus
 
 ---
 
-## ⭐ **Support My Work**
-
-If you like my projects, consider starring this repo! It motivates me to build more open-source contributions.
-
----
-
-Just tell me!
 
 
 <!---
