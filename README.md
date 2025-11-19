@@ -1,8 +1,3 @@
-Here is a **long, informative, professional GitHub README** crafted based on your full profile, projects, experience, and skills.
-
-You can copy-paste this directly into your `README.md`.
-
----
 
 # 👋 Hi, I’m **Abhishek Thapa**
 
